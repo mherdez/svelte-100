@@ -1,6 +1,5 @@
 <script>
-  export let props;
-  const { answer, points } = props;
+  export let answer, points;
 
   let viewAnswer = false;
   const showAnswer = () => (viewAnswer = !viewAnswer);
