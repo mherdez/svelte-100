@@ -17,7 +17,8 @@
 </div>
 
 <style>
-  .team1, h2  {
+  .team1,
+  h2 {
     cursor: auto;
   }
 </style>
